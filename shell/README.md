@@ -8,3 +8,4 @@
 | ubuntu_java.sh | UbuntuにJava(JDK)をインストールする |
 | ubuntu_node_nvm.sh | UbuntuにNode.jsとnvmをインストールする |
 | ubuntu_ruby.sh | UbuntuにRubyをインストールする |
+| ubuntu_bazelisk.sh | Ubuntuにbazel/bazeliskをインストールする |
